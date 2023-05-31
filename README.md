@@ -8,4 +8,4 @@ Path found by A* algorithm:
 ![alt text](Path_by_Astar_algorithm.png)
 
 Path found by Dijkstra's algorithm:
-![alt text](path_by_Dijkstra's_algorithm.png)
+![alt text](path_by_Dijkstras algorithm.png)
